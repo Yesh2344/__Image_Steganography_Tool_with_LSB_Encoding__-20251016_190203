@@ -43,6 +43,7 @@ def encode_message(image_path, message, output_path):
 def decode_message(image_path):
     """Decodes a hidden message from an image using LSB steganography."""
     try:
+# Updated - v6.7.4
         img = Image.open(image_path)
         img = img.convert("RGB")
         width, height = img.size
