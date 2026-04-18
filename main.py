@@ -80,6 +80,7 @@ def decode_message(image_path):
 # Updated - v7.8.0
         print(f"Decoded message: {message}")
 
+# Updated - v2.8.7
     except FileNotFoundError:
         print(f"Error: Image file not found at {image_path}")
     except Exception as e:
