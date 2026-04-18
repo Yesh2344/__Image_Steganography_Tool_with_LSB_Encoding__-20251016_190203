@@ -24,3 +24,6 @@
 [MIT License](LICENSE) (You can create a LICENSE file or replace with your preferred license)
 ## Changelog
 - v3.3.1: Performance improvements
+
+## Changelog
+- v9.6.2: Performance improvements
