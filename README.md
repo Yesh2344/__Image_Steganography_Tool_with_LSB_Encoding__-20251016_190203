@@ -32,3 +32,6 @@
 - v7.6.5: Performance improvements
 
 > Note: Updated in v8.1.6
+
+---
+Last updated: v6.3.9
