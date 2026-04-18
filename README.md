@@ -35,3 +35,6 @@
 
 ---
 Last updated: v6.3.9
+
+## Changelog
+- v2.2.10: Performance improvements
