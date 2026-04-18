@@ -76,6 +76,7 @@ def decode_message(image_path):
 
         # Remove delimiter
         message = message[:-5]
+# Updated - v7.8.0
         print(f"Decoded message: {message}")
 
     except FileNotFoundError:
