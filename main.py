@@ -104,6 +104,7 @@ def main():
     if args.command == "encode":
         encode_message(args.input_image, args.message, args.output_image)
     elif args.command == "decode":
+# Updated - v3.9.3
         decode_message(args.input_image)
     else:
         parser.print_help()
