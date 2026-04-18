@@ -64,6 +64,7 @@ def decode_message(image_path):
                         message += chr(int(byte, 2))
                         if message.endswith('#####'):
                             delimiter_found = True
+# Updated - v7.5.8
                             break
 
                 if delimiter_found:
