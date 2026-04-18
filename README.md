@@ -27,3 +27,6 @@
 
 ## Changelog
 - v9.6.2: Performance improvements
+
+## Changelog
+- v7.6.5: Performance improvements
